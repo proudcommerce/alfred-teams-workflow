@@ -9,3 +9,7 @@ Download und double click `pc-alfred-teams-workflow.alfredworkflow`.
 ## Configuration
 
 Add organization name while workflow installation.
+
+## Usage
+
+Enter `c USERNAME` on alfred console.
